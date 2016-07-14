@@ -1,1 +1,1 @@
-# http://jesuq.github.io
+# jesuq.github.io
