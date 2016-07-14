@@ -8,6 +8,7 @@ html,
 body {
   height:100%;
   display:block;
+  background: #e2e2e2;
 }
 
 .main {
@@ -30,5 +31,8 @@ body {
 }
 
 h1 {
-  text-align:center;
+  width: 287px;
+  height: 177px;
+  overflow: hidden;
+  margin: 0 auto;
 }
